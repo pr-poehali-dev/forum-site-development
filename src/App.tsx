@@ -8,8 +8,6 @@ import Index from "./pages/Index";
 import NotFound from "./pages/NotFound";
 import Topic from "./pages/Topic";
 
-import NotFound from "./pages/NotFound";
-
 const queryClient = new QueryClient();
 
 const App = () => (
